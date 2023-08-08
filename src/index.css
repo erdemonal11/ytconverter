@@ -60,7 +60,7 @@ button:focus-visible {
     color: #213547;
     background-color: #3D405B;
   }
-  a:hover {
+  .erdemlabel:hover {
     color: whitesmoke;
   }
   button {
